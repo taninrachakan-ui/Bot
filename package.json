@@ -1,14 +1,10 @@
 {
-  "name": "discord-shop-bot",
+  "name": "discord-bot-render",
   "version": "1.0.0",
-  "description": "My Discord Shop Bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "discord.js": "^14.14.1",
     "express": "^4.18.2"
